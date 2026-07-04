@@ -12,7 +12,7 @@ There are a few known issues
 - MUS Commands to the emulator aren't finished.
 - Group Pages throw errors in all php versions.
 
-I'll fix these in due time - other than I believe everything works as it did back in 2009.
+I'll fix these in due time - other than that I believe everything works as it did back in 2009.
 
 <img width="1912" height="932" alt="image" src="https://github.com/user-attachments/assets/dd15c54f-19c1-4435-bafc-3978f3a0e327" />
 
