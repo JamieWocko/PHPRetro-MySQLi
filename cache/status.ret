@@ -1,0 +1,5 @@
+<?php
+$status['online'] = "offline";
+$status['check'] = 1783180600;
+$status['bypass'] = true;
+?>
